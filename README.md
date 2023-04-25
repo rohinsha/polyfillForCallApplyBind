@@ -1,0 +1,2 @@
+# polyfillForCallApplyBind
+Created with CodeSandbox
